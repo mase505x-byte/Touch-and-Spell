@@ -1,0 +1,8 @@
+{
+  "letter-adventure": {
+    "red-assets": "a, e, i, o, u",
+    "blue-assets": "b, c, d, f, g, h, j, k, l, m, n, p, q, r, s, t, v, w, x, y, z",
+    "when new_window is opened": "set 'red-asset_letters' to color; #red, then; set 'blue_asset_letters' to #blue",
+    "initialize, pygame and tkinter": "if 'red assets' or 'blue assets are clicked' make one letter disappear, wait 0.3 seconds, then reappear"
+  }
+}
